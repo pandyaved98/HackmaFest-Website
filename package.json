@@ -6,8 +6,8 @@
   "dependencies": {
     "@devexpress/dx-core": "^2.7.6",
     "@devexpress/dx-react-core": "^2.7.6",
-    "@devexpress/dx-react-scheduler": "^2.7.6",
-    "@devexpress/dx-react-scheduler-material-ui": "^2.7.6",
+    "@devexpress/dx-react-scheduler": "^4.0.2",
+    "@devexpress/dx-react-scheduler-material-ui": "^4.0.2",
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-brands-svg-icons": "^5.15.4",
     "@fortawesome/free-regular-svg-icons": "^5.15.3",
